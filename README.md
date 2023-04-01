@@ -28,3 +28,7 @@ Melhoria 1, melhoria 2
    3. CSS diferente para grupos de cliente
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira compra
+
+## Links interessantes
+
+[Google] (https://www.google.com)
