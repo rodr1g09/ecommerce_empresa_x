@@ -34,3 +34,11 @@ Melhoria 1, melhoria 2
 [Google](https://www.google.com)
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
+
+```Javascript
+function soma(a, b) {
+    return a + b;
+}
+```
+
+
