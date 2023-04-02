@@ -35,10 +35,10 @@ Melhoria 1, melhoria 2
 
 [https://www.horadecodar.com.br](https://www.horadecodar.com.br)
 
-```Javascript
+Javascript
 function soma(a, b) {
     return a + b;
 }
-```
+
 
 
